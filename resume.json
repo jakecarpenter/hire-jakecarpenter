@@ -1,0 +1,104 @@
+{
+	'title' : "Jake Carpenter's Resume",
+	
+	'contact' : {
+		'phone': {
+			'mobile': 9073218693,
+			'googleVoice': 7073404098	
+		}
+		'email': 'jake@jakecarpenter.com',
+		'website' : 'http://jakecarpenter.com',
+		'socialMedia': {
+			'twitter': 'jakecarpenter',
+			'linkedIn': 'linkedin.com/in/jakeacarpenter',
+			'facebook': 'http://www.facebook.com/jakecarpenter'
+		}
+	},
+	
+	'objective': {
+	
+	},
+	
+	'summary': {
+		'text': "I like to use technology (new & old) to help people solve problems. I am comfortable behind a keyboard, and I know what standards are and why they are important. I can create applications using a number of platforms and languages, and I can teach people how to use them. I can lead others, and I can follow leaders. My wide skill set will make me an asset to organizations of all sizes. I bring a positive attitude and a jump-in-and-get-it-done mentality to anything I try. I am always learning, and I am always looking for new adventures."
+	/*
+	 JavaScript, JSON, PHP, HTML, CSS, Linux, Blender3d, 
+	 Video Production, Streaming Media, Event Sound, Project Management,
+	 CodeIgniter, jQuery, Mobile Development, VB.net, Sysadmin, Runner-up at 2012 API HackdayPDX, 
+	 2nd in Class-Alcan 5000 Winter Rally,1st Prize, Juneau Theory Slam,
+	  2008 Winner of local logo and t-shirt design contests, 
+	  Created & Produced .Meltdown., a 40- Hour gaming festival. Managed 30* volunteers and all aspects of the event. The event was featured locally in the press and on television. 
+	  Developed mobile finger painting app for kids (available via Play, App Store, and BlackBerry Store). 
+	  created free teleprompter software used by hundreds of people. 
+	  Created .50 Years of Alaska.s Legislature. booklet. Produced AlaskaLegislature.tv Promotional Video. 
+	  Created Alaska Legislature.s HD streaming system, a first in the nation.
+	 */
+	
+	},
+	
+	
+	'skills': [
+		{'name': "JavaScript", 'description': "Learned JavaScript to do cool stuff on websites. Now it is may fave. Love how versatile and widely deployed it is."},
+		{'name': "JSON", 'description': "XML eat your heart out, when there is data to exchange I call my friend JSON."},
+		{'name': "PHP", 'description': "Haters gonna hate, but I can get stuff done quick with PHP, and I like that."},
+		{'name': "HTML", 'description': "HTML is the glue that holds the web together."},
+		{'name': "CSS", 'description': "I can use CSS to make designers cringe..."},
+		{'name': "Linux", 'description': "I have a CD signed by Linus that contains the 2.2 kernel source. True story."},
+		{'name': "Blender3d", 'description': "Sometimes its fun to flip normal(s)."},
+		{'name': "Video", 'description': "Production, Editing, Encoding, Distributing. I've got it covered."},
+		{'name': "Streaming Media", 'description': "Content is about audience, Let's get the message out there!"},
+		{'name': "Event Sound", 'description': "Line Level, Mic Level, Phantom Power, what a noisy mess!"},
+		{'name': "Project Management", 'description': ""},
+		{'name': "CodeIgniter", 'description': ""},
+		{'name': "jQuery", 'description': ""},
+		{'name': "Mobile Development", 'description': ""},
+		{'name': "VB.net", 'description': ""},
+		{'name': "System Administration", 'description': ""},
+		{'name': "Windows", 'description': ""},
+		{'name': "Learning", 'description': ""},
+		{'name': "TV Production", 'description': ""},
+		{'name': "Lighting", 'description': ""},
+		{'name': "Mac OS", 'description': ""},
+		{'name': "Productivity Software", 'description': ""},
+		{'name': "Adobe Creative Suite", 'description': ""},
+		{'name': "Command Line nix", 'description': ""}
+	],
+	
+	'accomplishments': [
+		{'name': "", 'description': ""},
+	],
+	
+	'experience': [
+		{
+		'company': "",
+		 'title': "", 
+		 'dates': {
+		 	'start': "",
+		 	'end': ""
+		 	},
+		 'link': ""
+		 'description': ""
+		 },
+	],
+	
+	'education': [
+		{
+		'company': "",
+		 'title': "", 
+		 'dates': {
+		 	'start': "",
+		 	'end': ""
+		 	},
+		 'link': ""
+		 'description': ""
+		 },	
+	],
+	
+	'project': [
+		{'title': "", 'date': "", 'description': ""},
+		{'title': "", 'date': "", 'description': ""}
+	]
+	
+	
+	
+}
