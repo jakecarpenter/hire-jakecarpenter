@@ -9,9 +9,10 @@
 		'email': 'jake@jakecarpenter.com',
 		'website' : 'http://jakecarpenter.com',
 		'socialMedia': {
-			'twitter': 'jakecarpenter',
+			'twitter': '@jakecarpenter',
 			'linkedIn': 'linkedin.com/in/jakeacarpenter',
-			'facebook': 'http://www.facebook.com/jakecarpenter'
+			'facebook': 'http://www.facebook.com/jakecarpenter',
+			'github': 'http://github.com/jakecarpenter'
 		}
 	},
 	
@@ -20,22 +21,8 @@
 	},
 	
 	'summary': {
-		'text': "I like to use technology (new & old) to help people solve problems. I am comfortable behind a keyboard, and I know what standards are and why they are important. I can create applications using a number of platforms and languages, and I can teach people how to use them. I can lead others, and I can follow leaders. My wide skill set will make me an asset to organizations of all sizes. I bring a positive attitude and a jump-in-and-get-it-done mentality to anything I try. I am always learning, and I am always looking for new adventures."
-	/*
-	 JavaScript, JSON, PHP, HTML, CSS, Linux, Blender3d, 
-	 Video Production, Streaming Media, Event Sound, Project Management,
-	 CodeIgniter, jQuery, Mobile Development, VB.net, Sysadmin, Runner-up at 2012 API HackdayPDX, 
-	 2nd in Class-Alcan 5000 Winter Rally,1st Prize, Juneau Theory Slam,
-	  2008 Winner of local logo and t-shirt design contests, 
-	  Created & Produced .Meltdown., a 40- Hour gaming festival. Managed 30* volunteers and all aspects of the event. The event was featured locally in the press and on television. 
-	  Developed mobile finger painting app for kids (available via Play, App Store, and BlackBerry Store). 
-	  created free teleprompter software used by hundreds of people. 
-	  Created .50 Years of Alaska.s Legislature. booklet. Produced AlaskaLegislature.tv Promotional Video. 
-	  Created Alaska Legislature.s HD streaming system, a first in the nation.
-	 */
-	
+		'text': "I like to use technology (new & old) to help people solve problems. I am comfortable behind a keyboard, and I know what standards are and why they are important. I can create applications using a number of platforms and languages, and I can teach people how to use them. I can lead others, and I can follow leaders. My wide skill set will make me an asset to organizations of all sizes. I bring a positive attitude and a jump-in-and-get-it-done mentality to anything I try. I am always learning, and I am always looking for new adventures."	
 	},
-	
 	
 	'skills': [
 		{'name': "JavaScript", 'description': "Learned JavaScript to do cool stuff on websites. Now it is may fave. Love how versatile and widely deployed it is."},
@@ -48,54 +35,150 @@
 		{'name': "Video", 'description': "Production, Editing, Encoding, Distributing. I've got it covered."},
 		{'name': "Streaming Media", 'description': "Content is about audience, Let's get the message out there!"},
 		{'name': "Event Sound", 'description': "Line Level, Mic Level, Phantom Power, what a noisy mess!"},
-		{'name': "Project Management", 'description': ""},
-		{'name': "CodeIgniter", 'description': ""},
-		{'name': "jQuery", 'description': ""},
-		{'name': "Mobile Development", 'description': ""},
-		{'name': "VB.net", 'description': ""},
-		{'name': "System Administration", 'description': ""},
-		{'name': "Windows", 'description': ""},
-		{'name': "Learning", 'description': ""},
-		{'name': "TV Production", 'description': ""},
-		{'name': "Lighting", 'description': ""},
-		{'name': "Mac OS", 'description': ""},
-		{'name': "Productivity Software", 'description': ""},
-		{'name': "Adobe Creative Suite", 'description': ""},
-		{'name': "Command Line nix", 'description': ""}
+		{'name': "Project Management", 'description': "Cross the Is, dot the Ts. Keep everyone on the same page."},
+		{'name': "CodeIgniter", 'description': "CI is an MVCish rapid dev framework for PHP. I like that it provides a little order in chaos."},
+		{'name': "jQuery", 'description': "Add a little spice to your web sites."},
+		{'name': "Mobile Web Development", 'description': "Android, iOs, even BlackBerry. People like to hold the web in their hands. Let them."},
+		{'name': "VB.net", 'description': "You can do some cool stuff on the Windows platform with vb.net. I like to use it to prototype h/w interfaces."},
+		{'name': "System Administration", 'description': "Servers are home sweet home for code. I can make them work."},
+		{'name': "Windows", 'description': "Most of the computers in the world run Windows. I can use the computers like a boss. Actually, most of the computers in the world probably run Android."},
+		{'name': "Learning", 'description': "The best part about the world is that the amount you know will always be less than what you can learn."},
+		{'name': "TV Production", 'description': "We're live in five."},
+		{'name': "Lighting", 'description': "Before I was into tech, I was into technical theatre. It is still a passion."},
+		{'name': "Mac OS", 'description': "All hail the spinning beach ball."},
+		{'name': "Productivity Software", 'description': "Microsoft Office, Libre Office, etc. Get it done."},
+		{'name': "Adobe Creative Suite", 'description': "I can edit a few of the pixels."},
+		{'name': "Teaching", 'description': "I like to teach people how to use technology to make their lives better."},
+		{'name': "Supervision", 'description': "Lets work together."},
+		{'name': "Brainstorming", 'description': "Cloudy with a chance of creativity"},
+		{'name': "Improvisation", 'description': "MacGyver who?"},
+		{'name': "Fixing", 'description': "I like to make unworking stuff work."},
+		{'name': "Breaking", 'description': "To make an omelette you have to break a few eggs."},
+		{'name': "LAMP/WAMP", 'description': "Linux, Apache, MySQL, and PHP. the stuff dreams are made of."}
 	],
 	
 	'accomplishments': [
-		{'name': "", 'description': ""},
+		{'name': "API Hackday PDX", 'achievement': "Runner-up",'description': 'My project was an app to learn about places called "OnThe.in". It was selected as the 2nd place app, and I won a Nexus 7'},
+		{'name': "Alcan5000 Winter Rally", 'achievement': "2nd in Class, 9th Overall",'description': "As a rookie team, we took our 2 wheel drive 1990 BMW through the frozen north, coming in a healthy 2nd in class."},
+		{'name': "2008 Juneau Theory Slam", 'achievement': "1st Place",'description': "The University of Alaska-Southeast hosts the slam with local businesses to see who can present the best ridiculous scientific theory. I won with my theory that the earth spins faster at night."},
+		{'name': "KACN Logo Design", 'achievement': "Selected design",'description': "Designed the winning logo for a community television station in Anchorage, AK"},
+		{'name': "", 'achievement': "",'description': ""},
+		{'name': "", 'achievement': "",'description': ""},
+		{'name': "", 'achievement': "",'description': ""}
 	],
 	
 	'experience': [
 		{
-		'company': "",
-		 'title': "", 
+		'company': "State of Alaska, Alaska Legislature",
+		 'title': "Internet/Audio Specialist", 
 		 'dates': {
-		 	'start': "",
-		 	'end': ""
+		 	'start': "2/1/2009",
+		 	'end': "12/14/2012"
+		 	},
+		 'link': "http://www.legis.state.ak.us"
+		 'description': ""
+		 },
+		 {
+		'company': "State of Alaska, Alaska Legislature",
+		 'title': "Information Technology Coordinator", 
+		 'dates': {
+		 	'start': "11/20/2006",
+		 	'end': "1/31/2009"
+		 	},
+		 'link': "http://www.legis.state.ak.us"
+		 'description': ""
+		 },
+		 {
+		'company': "State of Alaska, Department of Transportation",
+		 'title': "Microcomputer Network Technician 2", 
+		 'dates': {
+		 	'start': "9/19/2005",
+		 	'end': "11/17/2006"
 		 	},
 		 'link': ""
+		 'description': ""
+		 },
+		 {
+		'company': "Catholic Community Service",
+		 'title': "Information Systems Technician", 
+		 'dates': {
+		 	'start': "1/10/2005",
+		 	'end': "9/16/2005"
+		 	},
+		 'link': "www.ccsjuneau.org"
+		 'description': ""
+		 },
+		 {
+		'company': "RFC Computing",
+		 'title': "Owner, Consultant", 
+		 'dates': {
+		 	'start': "5/1/2004",
+		 	'end': "12/31/2004"
+		 	},
+		 'link': "www.rfcak.com"
+		 'description': ""
+		 },
+		 {
+		'company': "Catholic Community Service",
+		 'title': "Information Systems Technician", 
+		 'dates': {
+		 	'start': "6/5/2001",
+		 	'end': "4/30/2004"
+		 	},
+		 'link': "www.ccsjuneau.org"
+		 'description': ""
+		 },
+		 {
+		'company': "Capital City Fire & Rescue",
+		 'title': "Volunteer Firefighter/EMT", 
+		 'dates': {
+		 	'start': "11/2004",
+		 	'end': "5/2008"
+		 	},
+		 'link': "www.ccfr.net"
+		 'description': ""
+		 },
+		 {
+		'company': "Jake Carpenter Consulting, LLC",
+		 'title': "Consultant", 
+		 'dates': {
+		 	'start': "2/2208",
+		 	'end': ""
+		 	},
+		 'link': "www.jakecarpenter.com"
 		 'description': ""
 		 },
 	],
 	
 	'education': [
 		{
-		'company': "",
-		 'title': "", 
+		'school': "Thomas Edison State College",
+		 'major': "Liberal Studies", 
 		 'dates': {
-		 	'start': "",
-		 	'end': ""
+		 	'start': "6/2010",
+		 	'end': "6/2013"
 		 	},
-		 'link': ""
+		 'link': "www.tesc.edu"
 		 'description': ""
-		 },	
+		 },
+		 {
+		'school': "University of Alaska-Southeast",
+		 'major': "Business", 
+		 'dates': {
+		 	'start': "9/2001",
+		 	'end': "5/2011"
+		 	},
+		 'link': "www.uas.alaska.edu"
+		 'description': ""
+		 }
 	],
 	
 	'project': [
-		{'title': "", 'date': "", 'description': ""},
+		{'title': "Meltdown 2009", 'date': "5/29-5/31 2009", 'description': "Created & Produced Meltdown 2009, a 40 Hour gaming festival. Managed more than 30 volunteers and all aspects of the event. The event was featured locally in the press and on television."},
+		{'title': "AlaskaLegislature.tv", 'date': "2008-2011", 'description': "Created the Alaska Legislature's HD streaming system (akl.tv), a first in the nation. Akl.tv provides live coverage of all legislative proceedings in the State Capitol, and many outside the Capitol"},
+		{'title': "CrystalPaint", 'date': "1/2012", 'description': "Developed mobile finger painting app for kids (available via Play, App Store, and BlackBerry Store). Built entirely in HTML5 Canvas and JavaScript with a PhoneGap wrapper."},
+		{'title': "PlanePrompter", 'date': "2003", 'description': "At the request of a friend, I learned VB.net and created free teleprompter software used by hundreds of people. "},
+		{'title': "Akl.tv Promo", 'date': "", 'description': "Wrote and directed AlaskaLegislature.tv Promotional Video."},
 		{'title': "", 'date': "", 'description': ""}
 	]
 	
