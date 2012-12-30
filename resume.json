@@ -1,5 +1,4 @@
-{
-	'title' : "Jake Carpenter's Resume",
+{'title' : "Jake Carpenter's Resume",
 	
 	'contact' : {
 		'phone': {
@@ -76,7 +75,8 @@
 		 	'end': "12/14/2012"
 		 	},
 		 'link': "http://www.legis.state.ak.us"
-		 'description': ""
+		 'description': "", 
+		 'projects': []
 		 },
 		 {
 		'company': "State of Alaska, Alaska Legislature",
@@ -86,7 +86,8 @@
 		 	'end': "1/31/2009"
 		 	},
 		 'link': "http://www.legis.state.ak.us"
-		 'description': ""
+		 'description': "",
+		 'projects': []
 		 },
 		 {
 		'company': "State of Alaska, Department of Transportation",
@@ -96,7 +97,8 @@
 		 	'end': "11/17/2006"
 		 	},
 		 'link': ""
-		 'description': ""
+		 'description': "",
+		 'projects': []
 		 },
 		 {
 		'company': "Catholic Community Service",
@@ -106,7 +108,8 @@
 		 	'end': "9/16/2005"
 		 	},
 		 'link': "www.ccsjuneau.org"
-		 'description': ""
+		 'description': "",
+		 'projects': []
 		 },
 		 {
 		'company': "RFC Computing",
@@ -116,7 +119,8 @@
 		 	'end': "12/31/2004"
 		 	},
 		 'link': "www.rfcak.com"
-		 'description': ""
+		 'description': "",
+		 'projects': []
 		 },
 		 {
 		'company': "Catholic Community Service",
@@ -126,7 +130,8 @@
 		 	'end': "4/30/2004"
 		 	},
 		 'link': "www.ccsjuneau.org"
-		 'description': ""
+		 'description': "",
+		 'projects': []
 		 },
 		 {
 		'company': "Capital City Fire & Rescue",
@@ -136,7 +141,8 @@
 		 	'end': "5/2008"
 		 	},
 		 'link': "www.ccfr.net"
-		 'description': ""
+		 'description': "",
+		 'projects': []
 		 },
 		 {
 		'company': "Jake Carpenter Consulting, LLC",
@@ -146,7 +152,8 @@
 		 	'end': ""
 		 	},
 		 'link': "www.jakecarpenter.com"
-		 'description': ""
+		 'description': "",
+		 'projects': []
 		 },
 	],
 	
