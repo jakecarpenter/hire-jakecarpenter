@@ -74,7 +74,7 @@
 		 	"start": "2/1/2009",
 		 	"end": "12/14/2012"
 		 	},
-		 "link": "http://www.legis.state.ak.us"
+		 "link": "http://www.legis.state.ak.us",
 		 "description": "", 
 		 "projects": []
 		 },
@@ -85,7 +85,7 @@
 		 	"start": "11/20/2006",
 		 	"end": "1/31/2009"
 		 	},
-		 "link": "http://www.legis.state.ak.us"
+		 "link": "http://www.legis.state.ak.us",
 		 "description": "",
 		 "projects": []
 		 },
@@ -96,7 +96,7 @@
 		 	"start": "9/19/2005",
 		 	"end": "11/17/2006"
 		 	},
-		 "link": ""
+		 "link": "",
 		 "description": "",
 		 "projects": []
 		 },
@@ -107,7 +107,7 @@
 		 	"start": "1/10/2005",
 		 	"end": "9/16/2005"
 		 	},
-		 "link": "www.ccsjuneau.org"
+		 "link": "www.ccsjuneau.org",
 		 "description": "",
 		 "projects": []
 		 },
@@ -118,7 +118,7 @@
 		 	"start": "5/1/2004",
 		 	"end": "12/31/2004"
 		 	},
-		 "link": "www.rfcak.com"
+		 "link": "www.rfcak.com",
 		 "description": "",
 		 "projects": []
 		 },
@@ -129,7 +129,7 @@
 		 	"start": "6/5/2001",
 		 	"end": "4/30/2004"
 		 	},
-		 "link": "www.ccsjuneau.org"
+		 "link": "www.ccsjuneau.org",
 		 "description": "",
 		 "projects": []
 		 },
@@ -140,7 +140,7 @@
 		 	"start": "11/2004",
 		 	"end": "5/2008"
 		 	},
-		 "link": "www.ccfr.net"
+		 "link": "www.ccfr.net",
 		 "description": "",
 		 "projects": []
 		 },
@@ -151,7 +151,7 @@
 		 	"start": "2/2208",
 		 	"end": ""
 		 	},
-		 "link": "www.jakecarpenter.com"
+		 "link": "www.jakecarpenter.com",
 		 "description": "",
 		 "projects": []
 		 },
@@ -165,7 +165,7 @@
 		 	"start": "6/2010",
 		 	"end": "6/2013"
 		 	},
-		 "link": "www.tesc.edu"
+		 "link": "www.tesc.edu",
 		 "description": ""
 		 },
 		 {
@@ -175,7 +175,7 @@
 		 	"start": "9/2001",
 		 	"end": "5/2011"
 		 	},
-		 "link": "www.uas.alaska.edu"
+		 "link": "www.uas.alaska.edu",
 		 "description": ""
 		 }
 	],
