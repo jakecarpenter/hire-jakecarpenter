@@ -180,7 +180,7 @@
 		 }
 	],
 	
-	"project": [
+	"projects": [
 		{"title": "Meltdown 2009", "date": "5/29-5/31 2009", "description": "Created & Produced Meltdown 2009, a 40 Hour gaming festival. Managed more than 30 volunteers and all aspects of the event. The event was featured locally in the press and on television."},
 		{"title": "AlaskaLegislature.tv", "date": "2008-2011", "description": "Created the Alaska Legislature's HD streaming system (akl.tv), a first in the nation. Akl.tv provides live coverage of all legislative proceedings in the State Capitol, and many outside the Capitol"},
 		{"title": "CrystalPaint", "date": "1/2012", "description": "Developed mobile finger painting app for kids (available via Play, App Store, and BlackBerry Store). Built entirely in HTML5 Canvas and JavaScript with a PhoneGap wrapper."},
